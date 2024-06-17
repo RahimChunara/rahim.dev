@@ -1,4 +1,4 @@
-# [swarom.dev](https://www.swarom.dev/)
+# [rahim.dev](https://www.rahim.dev/)
 
 Currently, I'm using this fork for my personal website, but in the future, I might create something unique. Again, kudos to [Jake Gut](https://www.linkedin.com/in/jakegut/); I really love how he built on [astro-paper's design](https://astro-paper.pages.dev/).
 
