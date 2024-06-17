@@ -1,5 +1,3 @@
-For those who are interested, here's the GitHub link for astro-paper: https://github.com/satnaing/astro-paper.
-
 ## Commands
 
 All commands are run from the root of the project, from a terminal:
