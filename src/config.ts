@@ -29,7 +29,7 @@ export const SOCIALS: SocialsObject = [
   },
   {
     name: "Mail",
-    href: "mailto:smuley@scu.edu",
+    href: "mailto:rahimchunara50@gmail.com",
     active: true,
   }
 ];
