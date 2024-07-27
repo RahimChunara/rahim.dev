@@ -8,7 +8,7 @@ import MarkdownIt from "markdown-it";
 const parser = new MarkdownIt();
 
 const postImportResult = import.meta.glob<MarkdownInstance<Frontmatter>>(
-  "../contents/**/**/*.md",
+  "../contents/*.md",
   {
     eager: true,
   }
