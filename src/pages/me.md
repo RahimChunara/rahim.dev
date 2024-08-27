@@ -21,30 +21,46 @@ Till now, I have worked in the following roles and companies:
 
 Here are some of the skills I have developed during my work and academics:
 
+- Java
 - C++
+- Golang
 - Python
   - Scripting
   - Flask
   - Automation
 - SQL
+- Spring Boot
 - JavaScript/TypeScript
   - React
   - React Native
   - Redux
   - Node.js
   - D3.js
+- Databases
+  - PostgreSQL
+  - MongoDB 
+  - MySQL
+  - Redis 
+  - SQL Server
 - HTML/CSS
-- PostgreSQL
-- MongoDB 
 - Linux
 - Amazon Web Services (AWS)
   - Lambda
   - DynamoDB
   - API Gateway
   - RDS
+  - RedShift Spectrum
   - EC2
+  - S3
 - Jenkins
 - Docker
+- Grafana
+- Kubernetes
+- Terraform
+- Apache Kafka
+
+Certifications
+- AWS Certified Developer - Associate [Link](https://www.credly.com/badges/bffdbeae-fa62-446f-92f4-77a446acf300/public_url)
 
 ### Miscellaneous
 
