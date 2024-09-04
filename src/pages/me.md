@@ -14,7 +14,7 @@ Currently, I am looking for **internship or full-time roles** in Software Engine
 Till now, I have worked in the following roles and companies:
 
 - **Software Engineer Intern** at *Mercy Corps Ventures* (7 months)
-- **Software Engineer** at *Deloitte* (1 year)
+- **Software Engineer** at *Deloitte* (2 year)
 - **Software Engineer Intern** at *Space Up Technologies* (6 months)
 
 ### Skills
