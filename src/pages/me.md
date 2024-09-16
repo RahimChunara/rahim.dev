@@ -23,6 +23,9 @@ Here are some of the skills I have developed during my work and academics:
 
 - Java
 - C++
+- C#
+- Boost - Asio,Thread,Pool
+- Qt
 - Golang
 - Python
   - Scripting
