@@ -13,9 +13,9 @@ Currently, I am looking for **internship or full-time roles** in Software Engine
 
 Till now, I have worked in the following roles and companies:
 
-- **Software Engineer Intern** at *Mercy Corps Ventures* (7 months)
-- **Software Engineer** at *Deloitte* (2 year)
-- **Software Engineer Intern** at *Space Up Technologies* (6 months)
+- **Software Engineer Intern** at *Mercy Corps Ventures* 
+- **Software Engineer** at *Deloitte* 
+- **Software Engineer Intern** at *Space Up Technologies* 
 
 ### Skills
 
@@ -23,7 +23,6 @@ Here are some of the skills I have developed during my work and academics:
 
 - Java
 - C++
-- C#
 - Boost - Asio,Thread,Pool
 - Qt
 - Golang
@@ -52,7 +51,6 @@ Here are some of the skills I have developed during my work and academics:
   - DynamoDB
   - API Gateway
   - RDS
-  - RedShift Spectrum
   - EC2
   - S3
 - Jenkins
