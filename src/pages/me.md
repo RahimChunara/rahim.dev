@@ -11,8 +11,9 @@ Currently, I am looking for **internship or full-time roles** in Software Engine
 
 ### Work Experience
 
-Till now, I have worked in the following roles and companies:
+Till now, I have working/worked in the following roles and companies:
 
+- **Software Engineer Intern** at *Mercy Corps Ventures* 
 - **Software Engineer Intern** at *Mercy Corps Ventures* 
 - **Software Engineer** at *Deloitte* 
 - **Software Engineer Intern** at *Space Up Technologies* 
@@ -23,9 +24,7 @@ Here are some of the skills I have developed during my work and academics:
 
 - Java
 - C++
-- Boost - Asio,Thread,Pool
-- Qt
-- Golang
+- Go
 - Python
   - Scripting
   - Flask
@@ -53,6 +52,7 @@ Here are some of the skills I have developed during my work and academics:
   - RDS
   - EC2
   - S3
+  - CloudWatch
 - Jenkins
 - Docker
 - Grafana
