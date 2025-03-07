@@ -11,9 +11,10 @@ Currently, I am looking for **internship or full-time roles** in Software Engine
 
 ### Work Experience
 
-Till now, I have working/worked in the following roles and companies:
+My experience:
 
-- **Software Engineer Intern** at *Mercy Corps Ventures* 
+- **Senior Backend Engineer** at *Owting LLC*
+- **Software Engineer** at *Frugal Innovation Hub*
 - **Software Engineer Intern** at *Mercy Corps Ventures* 
 - **Software Engineer** at *Deloitte* 
 - **Software Engineer Intern** at *Space Up Technologies* 
@@ -24,7 +25,6 @@ Here are some of the skills I have developed during my work and academics:
 
 - Java
 - C++
-- Go
 - Python
   - Scripting
   - Flask
@@ -44,6 +44,7 @@ Here are some of the skills I have developed during my work and academics:
   - Redis 
   - SQL Server
 - HTML/CSS
+- JMeter
 - Linux
 - Amazon Web Services (AWS)
   - Lambda
@@ -52,11 +53,8 @@ Here are some of the skills I have developed during my work and academics:
   - RDS
   - EC2
   - S3
-  - CloudWatch
 - Jenkins
 - Docker
-- Grafana
-- Kubernetes
 - Terraform
 - Apache Kafka
 
@@ -65,4 +63,4 @@ Certifications
 
 ### Miscellaneous
 
-Other than building projects academically and professionally, I have been practicing and solving LeetCode questions and have crossed 300+ questions on it. So far, I am able to solve most medium type questions.
+Other than building projects academically and professionally, I have been practicing and solving LeetCode questions and have crossed ~400 questions on it. So far, I am able to solve most medium type questions.
